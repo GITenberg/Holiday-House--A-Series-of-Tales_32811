@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36057
     wikipedia: http://en.wikipedia.org/wiki/Catherine_Sinclair
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32811#Holiday-House--A-Series-of-Tales
 gutenberg_issued: '2010-06-14'
 gutenberg_type: Text
 identifiers:
